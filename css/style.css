@@ -14,7 +14,7 @@ h2 {
 }
 
 .completed {
-text-decoration : underline;
+  font-family:12px;
 }
 
 #tasks .completed {
